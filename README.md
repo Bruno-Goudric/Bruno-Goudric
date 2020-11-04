@@ -1,3 +1,5 @@
+![capa github](https://github.com/Bruno-Goudric/Bruno-Goudric/blob/main/images/capa.png)  
+
 <center>
   <table>
     <tr>
@@ -6,3 +8,20 @@
     </tr>   
   </table>
 </center> 
+
+### Olá! Boas vindas :) <img src="https://github.com/Bruno-Goudric/Bruno-Goudric/blob/main/images/Hi.gif" width="30px">
+
+---
+
+Sou Desenvolvedor FullStack, atuo na área desde 2019 (e desde 2018 estudando programação 💻) e sou graduando em Análise e Desenvolvimento de Sistemas. .  
+
+Amo correr 🏃‍♂️, ler 📚 e estar com a minha 👨‍👩‍👦 e 🐶:  
+
+Onde me encontrar? :mag:  
+
+
+<a href="https://www.instagram.com/brunogoudric/"><img src="https://github.com/Bruno-Goudric/Bruno-Goudric/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/brunogoudric)  
+
+<a href="https://www.linkedin.com/in/brunodesenvolvedorfrontend/"><img src="https://github.com/Bruno-Goudric/Bruno-Goudric/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/brunodesenvolvedorfrontend/)  
+
+<a href="mailto:brunolfsports@hotmail.com"><img src="https://github.com/Bruno-Goudric/Bruno-Goudric/blob/main/images/email.png" width="16"></img></a> [Email](mailto:brunolfsports@hotmail.com) 
